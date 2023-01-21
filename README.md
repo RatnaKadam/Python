@@ -1,2 +1,2 @@
 # Python
-My resume is here.
+This is my hobby project
