@@ -1,2 +1,2 @@
 # Python
-This is my hobby project
+These are my hobby projects
