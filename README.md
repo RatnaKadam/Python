@@ -1,2 +1,2 @@
 # Python
-These are my hobby projects
+Interesting python projects build on PyCharm
